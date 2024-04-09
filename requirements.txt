@@ -1,4 +1,4 @@
-absl-py
+absl-py==2.1.0
 attrs>=19.1.0
 flatbuffers>=2.0
 jax
